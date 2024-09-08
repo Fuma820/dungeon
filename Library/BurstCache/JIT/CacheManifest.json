@@ -3,7 +3,7 @@
   "Assemblies": [
     {
       "FullName": "Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "LastWriteTime": "2024-08-13T18:35:43.664645Z"
+      "LastWriteTime": "2024-09-08T06:24:49.111417Z"
     },
     {
       "FullName": "netstandard, Version=2.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51",
@@ -19,15 +19,15 @@
     },
     {
       "FullName": "Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "LastWriteTime": "2024-08-13T18:35:43.662699Z"
-    },
-    {
-      "FullName": "Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "LastWriteTime": "2024-08-13T18:35:43.672762Z"
+      "LastWriteTime": "2024-09-08T06:24:49.1061Z"
     },
     {
       "FullName": "mscorlib, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
       "LastWriteTime": "2022-05-17T02:34:56Z"
+    },
+    {
+      "FullName": "Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2024-09-08T06:24:49.108156Z"
     }
   ],
   "Functions": [
@@ -61,8 +61,9 @@
       "AssemblyDependencyIndices": [
         3,
         4,
-        2,
         5,
+        2,
+        6,
         1
       ]
     },
@@ -74,8 +75,8 @@
       "AssemblyDependencyIndices": [
         3,
         4,
+        6,
         2,
-        5,
         1
       ]
     },
@@ -88,7 +89,7 @@
         3,
         4,
         2,
-        5,
+        6,
         1
       ]
     },
@@ -100,8 +101,8 @@
       "AssemblyDependencyIndices": [
         3,
         4,
-        5,
         2,
+        6,
         1
       ]
     },
@@ -113,9 +114,9 @@
       "AssemblyDependencyIndices": [
         3,
         4,
-        2,
         1,
-        5
+        2,
+        6
       ]
     },
     {
@@ -138,10 +139,9 @@
       "AssemblyDependencyIndices": [
         3,
         4,
-        6,
-        1,
         2,
-        5
+        1,
+        6
       ]
     },
     {
@@ -154,7 +154,7 @@
         4,
         2,
         1,
-        5
+        6
       ]
     },
     {
